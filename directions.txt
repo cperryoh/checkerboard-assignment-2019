@@ -9,4 +9,4 @@ The result should be something like
 01010101
 10101010
 01010101
-except with spaces between each number and newlines
+except with spaces between each number and also w/ newlines
